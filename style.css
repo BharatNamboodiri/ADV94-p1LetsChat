@@ -1,0 +1,28 @@
+#mainheader
+{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body
+{
+    color : black
+}
+#logo
+{
+    border-radius: 100px;
+    height: 50px;
+    width: 50px;
+}
+#secondheader
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#user_name
+{
+    height: 40px;
+    width:30%;
+    padding-left: 10px
+}
+#logopt2
+{
+    border-radius: 100px;
+}
